@@ -1,10 +1,11 @@
+# Alex Myers' First CS 193 Homework
+
+Favorite Things About CS 193
+	-Creating my own Github website
+ 	- PSOs
+  	- Useful assignments
 
 
-You can use the [editor on GitHub](https://github.com/kalutes/CS193_Fall18_Lab1/edit/master/index.md) to maintain and preview the content for your website in Markdown files.
-
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
-
-### Markdown
 Pittsburgh Steelers 2025 Record Predictions:
 11-6
 
