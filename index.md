@@ -1,6 +1,7 @@
 # Alex Myers' First CS 193 Homework
 
 Favorite Things About CS 193
+
 	-Creating my own Github website
  	- PSOs
   	- Useful assignments
